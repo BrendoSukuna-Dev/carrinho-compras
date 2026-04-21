@@ -1,4 +1,5 @@
-<h1>Carrinho de compras</h1>
+<h1>🛒 Carrinho de compras</h1>
+<img width="1875" height="958" alt="Image" src="https://github.com/user-attachments/assets/cb63a392-5263-4dd2-af2b-5db25d0f2186" />
 <h2>🖥 Projeto Concluido ✅ </h2> 
 
 ## 📋 Sobre o projeto
