@@ -1,6 +1,9 @@
 <h1>🛒 Carrinho de compras</h1>
 <img width="1875" height="958" alt="Image" src="https://github.com/user-attachments/assets/cb63a392-5263-4dd2-af2b-5db25d0f2186" />
-<h2>🖥 Projeto Concluido ✅ </h2> 
+<h2>🖥 Projeto Concluido ✅ </h2>
+
+## 🔗 Link do projeto
+➥ https://brendosukuna-dev.github.io/carrinho-compras/
 
 ## 📋 Sobre o projeto
 <p>Este é um projeto de um sistema de Carrinho de Compras dinâmico, desenvolvido para praticar a integração entre estrutura HTML, estilização avançada com CSS e lógica de negócios com JavaScript.</p>
